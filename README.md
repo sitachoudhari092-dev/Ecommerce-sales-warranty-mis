@@ -23,6 +23,3 @@ An MIS workbook built in **Microsoft Excel** using a **10,000+ row** global e-co
 - `product rule`: Lookup reference table with **Data Validation** rules.
 - **MIS Summary & Trend Views:** Category lifecycle rate table (`100%` sum check), revenue & leakage table (`Lost Revenue` and `Revenue Loss %`), monthly trend view grouped by `Order_Date` month, `Warranty_Months` slicer, Pivot Chart, and executive action notes.
 -
-Add E-Commerce Sales & Warranty MIS Excel workbook and README
-- [ecommerce_sales_dataset.csv](https://github.com/user-attachments/files/35231081/ecommerce_sales_dataset.csv)
-[ecommerce_sales_dataset project.xlsx](https://github.com/user-attachments/files/35231074/ecommerce_sales_dataset.project.xlsx)
